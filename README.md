@@ -3,7 +3,7 @@
 **Package ID:** `com.lonelyfrog.synkron`  
 **Tagline:** Manage Your Computer from All Your Devices!
 
-Synkron is a powerful and user-friendly multi-platform application that enables you to remotely control your computer and other devices. Whether you're using Android, iOS, Windows, macOS, or Linux, Synkron keeps you connected with secure, fast, and reliable communication.
+Synkron is a powerful and user-friendly multi-platform application that enables you to remotely control your computer and other devices. Whether you're using Android, Windows or Linux, Synkron keeps you connected with secure, fast, and reliable communication.
 
 ---
 
@@ -37,17 +37,16 @@ Synkron uses secure channels to connect your devices. No personal data is collec
 ## 📦 Supported Platforms
 
 - ✅ Android  
-- ✅ iOS  
 - ✅ Windows  
-- ✅ macOS  
 - ✅ Linux  
 
 ---
 
 ## 📲 Installation
 
-> **Mobile App:** Available on [Google Play Store](#) and [Apple App Store](#)  
-> **Desktop Client:** [Download from releases](#)
+> **Mobile App:** Available on [Google Play Store](https://play.google.com/store/apps/details?id=com.lonelyfrog.synkron)
+
+> **Desktop Client:** [Download from releases](https://github.com/username/repo/releases)
 
 ---
 
@@ -74,11 +73,10 @@ Please see the [LICENSE](LICENSE) file for full details.
 ---
 
 ## 🌐 Links
-
-- Website: [https://yoursite.com](https://yoursite.com) *(if any)*  
 - Contact: `1krstalacam@gmail.com`  
-- Twitter: `@yourhandle` *(optional)*
 
 ---
 
-> Control smarter. Stay in charge. Wherever you are — with **Synkron**.
+> Control smarter. Stay in charge — with **.Synkron**.
+
+
