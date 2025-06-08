@@ -44,9 +44,9 @@ Synkron uses secure channels to connect your devices. No personal data is collec
 
 ## 📲 Installation
 
-> **Mobile App:** Available on [Google Play Store](https://play.google.com/store/apps/details?id=com.lonelyfrog.synkron)
+> **Mobile App:**  [Google Play Store](https://play.google.com/store/apps/details?id=com.lonelyfrog.synkron)
 
-> **Desktop Client:** [Download from releases](https://github.com/username/repo/releases)
+> **Desktop App:** [Download Synkron](https://github.com/krstalacam/Synkron-Control-Your-PC/releases/download/v1.0.2/SynkronInstaller.exe)
 
 ---
 
